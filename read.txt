@@ -1,0 +1,5 @@
+1.gcc -o test menucallbacks.c gnomemenu.c `pkg-config --cflags --libs gtk+-3.0`
+2.enter command line ./test filename.
+3.In the "Smiley face" button is "about" and "quit",Other functions are in the "Settings button"
+4.my GTK VERISON is 3.18.9
+5.my system is "ubuntu 16.04 LTS"

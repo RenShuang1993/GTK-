@@ -1,0 +1,1 @@
+1.when i use command line open Image ,the Histogram will be distortion.But when I click the "Histogram"button several times, the image is back to normal. everything is normal when i use "open" to open the Image.
